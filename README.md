@@ -18,10 +18,6 @@ Please make sure to have the latest version of Google Chrome browser and Chrome 
 
 Clone the project
 
-```bash
-  git clone https://github.com/ayushjef2307/TF-IDF-SEARCH-ENGINE-II.git
-```
-
 Go to the project directory
 
 Install dependencies
